@@ -167,8 +167,10 @@ char transacScreen(string access) {
     "Enter transaction type: _____",
 	};
 
+
   if (access.compare("admin") == 0) { // add content for admin
     options[5] = 'E';
+    textArrTS[0] = "V -> View all rooms";
     textArrTS[4] = "E -> Edit room information";
     textArrTS[5] = "Q -> Quit";
     textArrTS[6] = " ";

@@ -1,3 +1,13 @@
+/* // **** CPE103L-4
+  Group 6 - Presenter #1
+  MENDOZA, Gabrielle Joy
+  MONTAÑA, Marielle
+  PADILLA, Kristian Emmanuel
+  PEREZ, Joaquin Manuel
+  Date of Submission: July 22, 2024
+*/
+
+
 // ** HEADER FILES
 #include "includes/helper.h"
 
